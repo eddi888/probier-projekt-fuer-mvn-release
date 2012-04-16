@@ -15,20 +15,20 @@
   
 	<scm>
 		<connection>scm:svn:http://probier-projekt-fuer-mvn-release.googlecode.com/svn/trunk/my-app</connection>
-		<developerConnection>scm:svn:http://probier-projekt-fuer-mvn-release.googlecode.com/svn/trunk/my-app</developerConnection>
+		<developerConnection>scm:svn:https://probier-projekt-fuer-mvn-release.googlecode.com/svn/trunk/my-app</developerConnection>
 	</scm>
 		
 	<distributionManagement>
 		<repository>
 			<id>Releases-repository</id>
 			<name>probier release repository</name>
-			<url>svn:http://probier-projekt-fuer-mvn-release.googlecode.com/svn/repositories/releases</url>
+			<url>svn:https://probier-projekt-fuer-mvn-release.googlecode.com/svn/repositories/releases</url>
 			<uniqueVersion>true</uniqueVersion>
 		</repository>
 		<snapshotRepository>
 			<id>Snapshots-repository</id>
 			<name>probier snapshot repository</name>
-			<url>svn:http://probier-projekt-fuer-mvn-release.googlecode.com/svn/repositories/snapshots</url>
+			<url>svn:https://probier-projekt-fuer-mvn-release.googlecode.com/svn/repositories/snapshots</url>
 			<uniqueVersion>false</uniqueVersion>
 		</snapshotRepository>
     </distributionManagement>
