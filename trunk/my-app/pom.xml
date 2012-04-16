@@ -15,7 +15,7 @@
   </properties>
   
 	<scm>
-		<developerConnection>scm:local|C:/javaprojects|my_module</developerConnection>
+		<developerConnection>scm:svn:https://probier-projekt-fuer-mvn-release.googlecode.com/svn/trunk/my-app</developerConnection>
 	</scm>
 		
 
