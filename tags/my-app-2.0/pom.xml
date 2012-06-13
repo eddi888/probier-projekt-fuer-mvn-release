@@ -14,8 +14,8 @@
   </properties>
   
 	<scm>
-		<connection>scm:svn:http://probier-projekt-fuer-mvn-release.googlecode.com/svn/branches/my-app-2.0.x</connection>
-		<developerConnection>scm:svn:https://probier-projekt-fuer-mvn-release.googlecode.com/svn/branches/my-app-2.0.x</developerConnection>
+		<connection>scm:svn:http://probier-projekt-fuer-mvn-release.googlecode.com/svn/tags/my-app-2.0</connection>
+		<developerConnection>scm:svn:https://probier-projekt-fuer-mvn-release.googlecode.com/svn/tags/my-app-2.0</developerConnection>
 	</scm>
 		
 	<distributionManagement>
