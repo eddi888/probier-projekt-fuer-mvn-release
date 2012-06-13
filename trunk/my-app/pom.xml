@@ -3,7 +3,7 @@
 
   <groupId>com.mycompany.app</groupId>
   <artifactId>my-app</artifactId>
-  <version>1.2</version>
+  <version>1.2-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>my-app</name>
@@ -14,8 +14,8 @@
   </properties>
   
 	<scm>
-		<connection>scm:svn:http://probier-projekt-fuer-mvn-release.googlecode.com/svn/tags/my-app-1.2</connection>
-		<developerConnection>scm:svn:https://probier-projekt-fuer-mvn-release.googlecode.com/svn/tags/my-app-1.2</developerConnection>
+		<connection>scm:svn:http://probier-projekt-fuer-mvn-release.googlecode.com/svn/trunk/my-app</connection>
+		<developerConnection>scm:svn:https://probier-projekt-fuer-mvn-release.googlecode.com/svn/trunk/my-app</developerConnection>
 	</scm>
 		
 	<distributionManagement>
