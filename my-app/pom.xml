@@ -3,7 +3,7 @@
 	
 	<groupId>com.mycompany.app</groupId>
 	<artifactId>my-app</artifactId>
-	<version>4.0</version>
+	<version>4.0-SNAPSHOI</version>
 	<packaging>jar</packaging>
 	
 	<name>my-app</name>
